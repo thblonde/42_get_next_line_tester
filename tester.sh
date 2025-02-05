@@ -1,3 +1,5 @@
+#!/bin/bash
+
 printf "\t\t1\t10\t100\t1000\t1000000\n"
 
 
